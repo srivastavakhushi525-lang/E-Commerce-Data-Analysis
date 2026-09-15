@@ -273,12 +273,12 @@ Project documentation & portfolio
 
 SQL Analysis
 
-![Image]_(https://github.com/user-attachments/assets/fe6d5c83-efe5-474a-a1bc-16294a6a3ead)
+![Image](https://github.com/user-attachments/assets/fe6d5c83-efe5-474a-a1bc-16294a6a3ead)
 
 �
 Power BI Dashboard
 
-![Image]_(https://github.com/user-attachments/assets/44bc085a-d4ee-41d9-9119-97093abbc19f)
+![Image](https://github.com/user-attachments/assets/44bc085a-d4ee-41d9-9119-97093abbc19f)
 
 
 🚀 Project Outcome
